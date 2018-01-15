@@ -19,3 +19,6 @@ spark-solr.iws
 .idea/
 target/
 
+.classpath
+.project
+.settings/
